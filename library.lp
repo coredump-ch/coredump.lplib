@@ -1,0 +1,13 @@
+(librepcb_library 4106d900-59b3-442a-889b-022503ef6810
+ (name "Coredump")
+ (description "Parts used at Coredump hackerspace.")
+ (keywords "coredump")
+ (author "Coredump")
+ (version "0.1")
+ (created 2019-10-26T21:00:42Z)
+ (deprecated false)
+ (url "https://github.com/coredump-ch/coredump.lplib")
+ (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
+ (dependency 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6)
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
