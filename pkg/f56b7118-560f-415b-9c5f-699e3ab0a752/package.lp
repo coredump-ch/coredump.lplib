@@ -28,7 +28,7 @@
    (position 2.965 -2.1) (rotation 0.0) (size 1.6 4.2) (drill 0.0)
   )
   (pad 100a30c6-fa1e-4a17-b929-22fb64e92e45 (side top) (shape rect)
-   (position 0.0 -2.1) (rotation 0.0) (size 1.6 4.1) (drill 0.0)
+   (position 0.0 -2.1) (rotation 0.0) (size 1.415 4.1) (drill 0.0)
   )
   (polygon e384aa61-92d8-448b-90b5-ba2e60be4976 (layer top_documentation)
    (width 0.0) (fill true) (grab_area false)
